@@ -1,0 +1,10 @@
+mechanize
+bs4
+requests
+tqdm
+random-user-agent
+rich
+colorama
+stdiomask
+simplejson
+mechanize
