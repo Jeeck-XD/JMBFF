@@ -163,7 +163,7 @@ def logo(): # <========== LOGO BUAT TAMPILAN JMBFF GTG
 {WARNA_TOD}\____/  /_/  /_/  /_____/ /_/      /_/          {J}•{U}--------------------------{J}•          """) # <========== JANGAN DI UBAH ANJINK
 def log_log(): #<========= LOGO BUAT LOGIN BABI
 	os.system("clear")
-#	os.system("xdg-open https://facebook.com/jecko.ramadhan.9")
+	os.system("xdg-open https://facebook.com/jecko.ramadhan.9")
 	WARNA_TOD = random.choice([W,K,I,U])
 	print(f"""
 {WARNA_TOD}______ ___________________________   __________________
