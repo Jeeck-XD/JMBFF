@@ -21,9 +21,9 @@
       pkg upadate && pkg upgrade
       pkg install python
       pkg install git
-      pip install -r requirements.txt
       git clone https://github.com/Jeeck-XD/JMBFF
       cd JMBFF
+      pip install -r requirements.txt
       ls
       git pull
       python JMBFF.py
