@@ -411,13 +411,13 @@ def tur_atur_tur(): # <========== BUAT TAMPILAN SETING ID
 	if __kon__ in [""]:
 		jalan(f"\n{P}[{K}•{P}]{M} Masukan dengan benar babi");tur_atur_tur()
 	elif __kon__ in ["1", "01"]:
-		method.append("mbasic")
+		method.append("free")
 	elif __kon__ in ["2", "02"]:
 		method.append("mbasic")
 	elif __kon__ in ["3", "03"]:
-		method.append("mbasic")
+		method.append("mobile")
 	else:
-		method.append('mbasic')
+		method.append("mobile-v2")
 	pwplus = input(f"\n{P}[{K}•{P}] Gunakan password Defaults/Manual [D/M] : {W}")
 	if pwplus in ['m','M']:
 		pwpluss.append('ya')
