@@ -13,8 +13,8 @@
 ### Pengertian
   
 <p align="center">
-<i> <b> Jmbff adalah sebuah alat untuk melakukan sebuah bruteforce di latar belakang dengan memerlukan terminal Termux / Pydroid / Kali linux. Tools ini login menggunakan akses cookie dengan menggunakan cookie maka akan semakin mudah untukmu masuk kedalam tools ini.</b> <i>
-#
+<i> <b> ...Jmbff adalah sebuah alat untuk melakukan sebuah bruteforce di latar belakang dengan memerlukan terminal Termux / Pydroid / Kali linux. Tools ini login menggunakan akses cookie dengan menggunakan cookie maka akan semakin mudah untukmu masuk kedalam tools ini...</b> <i>
+
   
 #
 ### Install tols
