@@ -27,6 +27,14 @@
       ls
       git pull
       python JMBFF.py
+### Update tools 
+      cd JMBFF
+      git pull
+      ls
+      python JMBFF.py
+
+
+
 
 <p align="center">
 <i> <b> Follow Me Sosial Media</b> </i>
